@@ -1,0 +1,21 @@
+div{
+    /*글자의 두깨 */
+    font-weight: bold;
+    /*글자 사이즈*/
+    font-size: 3rem;
+    /*자간*/
+    letter-spacing:-10px;
+    /*폰트 컬러*/
+    color: #787878;
+}
+section{
+    /*폰트 사이즈*/
+    font-size: 10rem;
+    /*폰트 컬러
+    인자1번 레드
+    인자2번 그린
+    인자3번 블루
+    인자4번 투명도
+    */
+    color: rgba(255,0,0,0.5);
+}
